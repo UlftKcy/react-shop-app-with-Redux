@@ -1,3 +1,5 @@
+![shop-app2](https://user-images.githubusercontent.com/80036968/133447615-0070eac7-8603-418e-b957-d6871afc6ca6.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
